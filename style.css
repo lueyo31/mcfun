@@ -1,0 +1,15 @@
+body {
+    background-color: #292C30;
+    color: white;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+     p{
+        margin-bottom: 8px;
+     }
+}
